@@ -5,7 +5,11 @@ An epigenetic mechanism underlying chromosome 17p deletion-driven tumorigenesis
 
 # Citation
 
-Our paper has been published on XXXXX
+Our paper has been published on [Cancer Discovery](https://cancerdiscovery.aacrjournals.org/content/early/2020/12/18/2159-8290.CD-20-0336?versioned=true) 
+
+And you could download the .pdf file for reading by clicking [here](MS/An Epigenetic Mechanism Underlying Chromosome 17p Deletion–Driven Tumorigenesis.pdf)
+
+The supplemental data and information could be accessible by clicking [here](supplemental/)
 
 You could downloaded raw data from [GEO Database GSE145190](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145190)
 
